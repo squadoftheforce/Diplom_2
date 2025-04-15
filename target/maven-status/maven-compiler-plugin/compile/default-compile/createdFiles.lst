@@ -1,0 +1,12 @@
+api\util\OrderGenerator.class
+org\example\Main.class
+api\model\OrderResponse.class
+api\client\RestClient.class
+api\client\OrderClient.class
+api\model\OrderResponse$OrderDetails.class
+api\util\UserGenerator.class
+api\model\TokenRefresh.class
+api\model\Order.class
+api\model\UserResponse.class
+api\client\UserClient.class
+api\model\User.class
